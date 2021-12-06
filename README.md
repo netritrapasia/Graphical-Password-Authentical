@@ -1,0 +1,2 @@
+# Graphical-Password-Authentical
+• Developed a password type which is a combination of graphical images which is in a sequence. When user opens a website, every time the sequence of the graphics gets jumbled and for intruder it is a though job to identify and perform a cyber-attack and gain the credentials of the users. • Used JavaScript to create a smooth and user-friendly interface. • Used MySQL and Apache to design backend. • Used HTML, CSS, Bootstrap to design appealing frontend. • Gmail API is used to gain access to connect with mails.
